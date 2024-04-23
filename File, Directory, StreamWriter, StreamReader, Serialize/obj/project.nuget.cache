@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GY/57KmGmP4JdpJpsL65EGJyLMmwJU+tYAMajeKzB/f3R+Nk3MbvDV7aBZ03s6KHaOmwfMje6rw2uzxYq+I2ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\OneDrive\\Desktop\\File, Directory, StreamWriter, StreamReader, Serialize\\File, Directory, StreamWriter, StreamReader, Serialize\\File, Directory, StreamWriter, StreamReader, Serialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
